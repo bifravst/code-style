@@ -1,3 +1,6 @@
+> **:truck: moved to https://github.com/NordicSemiconductor/asset-tracker-cloud-code-style-js**  
+> :information_source: [more info](https://github.com/bifravst/bifravst/issues/56)
+
 # Bifravst Code Style [![npm version](https://img.shields.io/npm/v/@bifravst/code-style.svg)](https://www.npmjs.com/package/@bifravst/code-style)
 
 [![GitHub Actions](https://github.com/bifravst/code-style/workflows/Semantic%20Release/badge.svg)](https://github.com/bifravst/code-style/actions)
